@@ -1,8 +1,8 @@
-<img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
+<img src="https://te.legra.ph/file/e11260ffffff857c620fc.jpg" align="right" width="200" height="200"/>
 
 # Yukki Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Yukki Music Bot](https://github.com/TeamYukki/YukkiMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[Yukki Music Bot](https://github.com/lokeshdausa452/bhartimusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
@@ -33,7 +33,7 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 > If you want to start working with Yukki Music Bot you can either fork or import repo .
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
-> If you'd like to talk to us, join us on our [Telegram Group](https://t.me/YukkiSupport)
+> If you'd like to talk to us, join us on our [Telegram Group](https://t.me/DAUSA_123)
 
 
 ## 🖇 Prerequisites
@@ -74,7 +74,7 @@ shikhar@MacBook~ $ bash start
 > Not Getting VPS Method? [Watch Tutorial](https://t.me/TheYukki/2275)
 
 
-<img src="https://telegra.ph/file/6b75b57da50ef1183fcdc.jpg" align="center">
+<img src="https://te.legra.ph/file/e11260ffffff857c620fc.jpg" align="center">
 
 
 ## 🏷 Support
@@ -89,7 +89,7 @@ Reach out to the maintainer at one of the following places:
 
 If you want to say **thank you** or/and support active development of YukkiMusicBot:
 
-- Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
+- Add a [GitHub Star](https://github.com/lokeshdausa452/bhartimusic) to the project.
 - Fork the Repo :)
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
@@ -106,9 +106,9 @@ Please read [our contribution guidelines](CONTRIBUTING.md), and thank you for be
 
 ## 👨🏻‍💻 Authors & contributors
 
-The original setup of this repository is by [Team Yukki](https://github.com/TeamYukki).
+The original setup of this repository is by [Team Yukki](https://github.com/bhartimusic).
 
-For a full list of all authors and contributors, see [the contributors page](https://github.com/TeamYukki/YukkiMusicBot/contributors).
+For a full list of all authors and contributors, see [the contributors page](https://github.com/lokeshdausa452/bhartimusic/contributors).
 
 ## ⚠️ Security
 
