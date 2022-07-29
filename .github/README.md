@@ -4,12 +4,7 @@
 
 [Bharti Music Bot](https://github.com/lokeshdausa452/bhartimusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
-* Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
-* Written from scratch, making it stable and less crashes.
-* Attractive thumbnails, fonts and images,  making experience more user-friendly and interactive.
-* Loop, Seek, Shuffle, Specific Skip, Playlists etc support
-* Global, Users, Chats Top 10 played tracks stats
-* Multi-Language support
+
 
 
 # 🔗 An Overview
@@ -18,21 +13,21 @@ Here's a brief high-level overview of the Yukki Music Bot:
 
 This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls) . Pyrogram is a modern, elegant and asynchronous MTProto API framework.
 
-* For database, Yukki uses the MongoDB to store data and keys. [MongoDB](https://www.mongodb.com/) is a document database with the scalability and flexibility that you want with the querying and indexing that you need.
+* For database, BHARTIMUSIC uses the MongoDB to store data and keys. [MongoDB](https://www.mongodb.com/) is a document database with the scalability and flexibility that you want with the querying and indexing that you need.
 * Project uses the bs4 web scrapping for getting many platform details. [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) is a Python library for pulling data out of HTML and XML files.
 * The project uses the font [`Raleway`](../assets/font2.ttf) as its main font for the thumbnails.
 * The projects uses attractive images and icons which you can get in [assets](../assets/) directory.
 
-For more information on the technologies that power the Yukki Music Bot, check out the [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/).
+For more information on the technologies that power the Yukki Music Bot, check out the [Docs](https://notreallyshikhar.gitbook.io/bhartimusic/).
 
 
 
 # ⚡️ Getting Started
 
-### Before deploying Yukki Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
+### Before deploying BHARTIMUSIC , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
 
-> If you want to start working with Yukki Music Bot you can either fork or import repo .
-> The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
+> If you want to start working with BHARTIMUSIC you can either fork or import repo .
+> The official [documentation site](https://notreallyshikhar.gitbook.io/bhartimusic/) contains a lot of information. The best place to start is from the deployment section.
 > If you'd like to talk to us, join us on our [Telegram Group](https://t.me/DAUSA_123)
 
 
@@ -57,12 +52,12 @@ For more information on the technologies that power the Yukki Music Bot, check o
 ## 🖇 Heroku
 <p><a href="https://heroku.com/deploy?template=https://github.com/lokeshdausa452/bhartimusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
-> Checkout [Docs](https://Heroku.com/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on Heroku Deploy
+> Checkout [Docs](https://Heroku.com/bhartimusic/deployment/local-hosting-or-vps) for Detailed Explanation on Heroku Deploy
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/TeamYukki/YukkiMusicBot
-shikhar@MacBook~ $ cd YukkiMusicBot
+shikhar@MacBook~ $ git clone https://github.com/lokeshdausa452/lokeshdausa452
+shikhar@MacBook~ $ cd lokeshdausa452
 shikhar@MacBook~ $ sudo bash setup
 ```
 > Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
@@ -82,13 +77,13 @@ shikhar@MacBook~ $ bash start
 
 Reach out to the maintainer at one of the following places:
 
-- [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
-- [Telegram Support](https://t.me/YukkiSupport)
+- [GitHub Issues](https://github.com/lokeshdausa452/lokeshdausa452/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
+- Contact options listed on [this GitHub profile](https://github.com/lokeshdausa452)
+- [Telegram Support](https://t.me/Dausa_123)
 
 ## 🎗 Project assistance
 
-If you want to say **thank you** or/and support active development of YukkiMusicBot:
+If you want to say **thank you** or/and support active development of BHARTIMUSIC:
 
 - Add a [GitHub Star](https://github.com/lokeshdausa452/bhartimusic) to the project.
 - Fork the Repo :)
@@ -97,7 +92,7 @@ If you want to say **thank you** or/and support active development of YukkiMusic
 PS: You can buy me a coffee too :)
 <p><a href="https://www.buymeacoffee.com/notreallysy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-Together, we can make YukkiMusicBot **better**!
+Together, we can make bhartimusic **better**!
 
 ## ✍🏻 Contributing
 
@@ -107,13 +102,13 @@ Please read [our contribution guidelines](CONTRIBUTING.md), and thank you for be
 
 ## 👨🏻‍💻 Authors & contributors
 
-The original setup of this repository is by [Team Yukki](https://github.com/bhartimusic).
+The original setup of this repository is by [bhartimusic](https://github.com/bhartimusic).
 
 For a full list of all authors and contributors, see [the contributors page](https://github.com/lokeshdausa452/bhartimusic/contributors).
 
 ## ⚠️ Security
 
-YukkiMusicBot follows good practices of security, but 100% security cannot be assured. YukkiMusicBot is provided **"as is"** without any **warranty**. Use at your own risk.
+Bhartimusic follows good practices of security, but 100% security cannot be assured. Bhartimusic is provided **"as is"** without any **warranty**. Use at your own risk.
 
 For more information and to report security issues, please refer to our [`SECURITY.md`](SECURITY.md)
 
@@ -126,7 +121,7 @@ See [LICENSE](../LICENSE) for more information.
 
 ## 📑 Acknowledgement
 
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
+Special thanks to these amazing projects/people which/who help power bhartimusic:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
