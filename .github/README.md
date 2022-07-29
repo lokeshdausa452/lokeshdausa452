@@ -55,6 +55,7 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 
 ## 🖇 Heroku
+<p><a href="https://heroku.com/deploy?template=https://github.com/lokeshdausa452/bhartimusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 > Checkout [Docs](https://Heroku.com/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on Heroku Deploy
 
