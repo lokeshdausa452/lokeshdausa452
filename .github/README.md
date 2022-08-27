@@ -19,15 +19,6 @@
 > If you'd like to talk to us, join us on our [Telegram Group](https://t.me/DAUSA_123)
 
 
-
-
-## 🖇 Generating Pyrogram String Session
-
-- Generate a Pyrogram String Session via [Replit](https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen)
-
-- Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/YukkiStringBot)
-
-
 ## 🖇 Heroku
 <p><a href="https://heroku.com/deploy?template=https://github.com/lokeshdausa452/bhartimusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
